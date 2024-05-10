@@ -4,7 +4,7 @@ I'm a passionate developer, always looking to learn and improve my skills. I lov
 
 ## 🛠️ My technical skills include:
 
-- Programming languages: C, C#, Pthon, Java, PHP
+- Programming languages: C, C#, Python, Java, PHP
 - Databases: MongoDB, PostgreSQL, MySQL
 
 ## 🔭 I'm currently working on:
@@ -25,7 +25,7 @@ I'm looking for help to better understand advanced concepts of Java and Python.
 
 ## 💬 Ask me about:
 
-You can ask me about anything related to C, C#, Pthon, Java, PHP, MongoDB, PostgreSQL, MySQL.
+You can ask me about anything related to C, C#, Python, Java, PHP, MongoDB, PostgreSQL, MySQL.
 
 ## 📫 How to reach me:
 
