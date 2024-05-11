@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hello, I'm Rafael Alexandro Vuelvas Perez 👋
 
-<!--
-**ELNARMOTON79/ELNARMOTON79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer, always looking to learn and improve my skills. I love solving problems and creating efficient and effective solutions.
 
-Here are some ideas to get you started:
+## 🛠️ My technical skills include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming languages: C, C#, Pthon, Java, PHP
+- Databases: MongoDB, PostgreSQL, MySQL
+
+## 🔭 I'm currently working on:
+
+I'm working on several personal projects, including a web application for task management and a technology blog.
+
+## 🌱 I'm currently learning:
+
+I'm improving my skills in Java and learning about backend development with PHP.
+
+## 👯 I'm looking to collaborate on:
+
+I would love to collaborate on open source projects and any interesting project that is related to Java or Python.
+
+## 🤔 I'm looking for help with:
+
+I'm looking for help to better understand advanced concepts of Java and Python.
+
+## 💬 Ask me about:
+
+You can ask me about anything related to C, C#, Pthon, Java, PHP, MongoDB, PostgreSQL, MySQL.
+
+## 📫 How to reach me:
+
+You can contact me through my email: rafaelalexandro6949@gmail.com, my Discord: elnarmoton69
+
+## 😄 Pronouns:
+
+He/him
+
+## ⚡ Fun fact:
+
+Besides being a developer, I'm also an avid reader and I love hiking.
