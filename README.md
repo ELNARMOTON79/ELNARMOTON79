@@ -9,7 +9,7 @@ I'm a passionate developer, always looking to learn and improve my skills. I lov
 
 ## 🔭 I'm currently working on:
 
-I'm working on several personal projects, including a web application for task management and a technology blog.
+I'm working on several personal projects, including a blog web and school projects.
 
 ## 🌱 I'm currently learning:
 
