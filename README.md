@@ -29,7 +29,7 @@ You can ask me about anything related to C, C#, Pthon, Java, PHP, MongoDB, Postg
 
 ## 📫 How to reach me:
 
-You can contact me through my email: rafaelalexandro6949@gmail.com, my Discord: elnarmoton69
+You can contact me through my email: rafaelalexandro6949@gmail.com, my Discord: elnarmoton69, or my social media like Instagram or Linkedin
 
 ## 😄 Pronouns:
 
