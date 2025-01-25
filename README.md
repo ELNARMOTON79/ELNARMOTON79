@@ -25,7 +25,7 @@ I'm looking for help to better understand advanced concepts of Java and Python.
 
 ## 💬 Ask me about:
 
-You can ask me about anything related to C, C#, Pthon, Java, PHP, MongoDB, PostgreSQL, MySQL.
+You can ask me about anything related to C, C#, Python, Java, PHP, MongoDB, PostgreSQL, MySQL.
 
 ## 📫 How to reach me:
 
@@ -37,4 +37,4 @@ He/him
 
 ## ⚡ Fun fact:
 
-Besides being a developer, I'm also an avid reader and I love hiking.
+Besides being a developer, I'm also an avid reader,I love hiking and do downhill.
